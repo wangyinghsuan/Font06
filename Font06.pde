@@ -1,3 +1,9 @@
+/**
+     A 'S' drawn by horizontal line and bezier curve matrixes.
+     wang ying hsuan 26/08/2012
+     ying_hsuan52@hotmail.com
+  */
+
 size(400,400);
 noFill();
 smooth();
